@@ -1,8 +1,8 @@
-<nav>
+<nav> <!--Menyn-->
 	<ul>
 		<li><a href="index.php">Start</a></li>
-		<li><a href="sida2.php">Val 1</a></li>
-		<li><a href="sida3.php">Val 2</a></li>
-		<li><a href="#">Val 3</a></li>
+		<li><a href="sida2.php">Produkter</a></li>
+		<li><a href="sida3.php">Kundvagn</a></li>
+		<li><a href="#">Betalning</a></li>
 	</ul>
 </nav>

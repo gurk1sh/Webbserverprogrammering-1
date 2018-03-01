@@ -1,3 +1,3 @@
 <header>
-	<h1>A small template</h1>
+	<h1>Exotiska frukter</h1>
 </header>
