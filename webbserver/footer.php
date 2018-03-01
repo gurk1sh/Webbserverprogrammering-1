@@ -1,3 +1,3 @@
 <footer>
-	 Footer containing information regarding the website
+	 Footer med information och sånt
 </footer>
