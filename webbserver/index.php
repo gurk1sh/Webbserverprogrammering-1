@@ -22,7 +22,7 @@
 					<li><a href="index.php">Start</a></li>
 					<li><a href="sida2.php">Produkter</a></li>
 					<li><a href="sida3.php">Kundvagn</a></li>
-					<li><a href="#">BetalningTEST</a></li>
+					<li><a href="#">Betalning</a></li>
 				</ul>
 			</nav>
 			<main> <!--Huvudinnehåll-->
@@ -30,37 +30,10 @@
 					<article>
 						<figure>
 							<img src="bilder/teknikum.jpg" alt=""/>
-							<figcaption>Daniel</figcaption>
+							<figcaption>Information</figcaption>
 						</figure>
 		
-						<p>TEST TEST TEST Some text about Daniel.</p>
-	      
-					</article>
-					<article>
-						<figure>
-							<img src="bilder/teknikum.jpg" alt=""/>
-							<figcaption>Andreas</figcaption>
-						</figure>
-		
-						<p>Some text about Andreas</p>
-	      
-					</article>
-					<article>
-						<figure>
-							<img src="bilder/teknikum.jpg" alt=""/>
-								<figcaption>Tomas</figcaption>
-						</figure>
-		
-						<p>Some text about TomasTEST.</p>
-	      
-					</article>
-					<article>
-						<figure>
-							<img src="bilder/teknikum.jpg" alt=""/>
-							<figcaption>David</figcaption>
-						</figure>
-		
-							<p>Some Text about David.</p>
+						<p>På denna sida kan du beställa exotiska frukter.</p>
 	      
 					</article>
 				</section>
