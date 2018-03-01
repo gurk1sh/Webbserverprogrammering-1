@@ -13,18 +13,13 @@
   <body id="index">
     <div id="wrapper">
 			<!--Egen fil -->
-			<header><!--Sidhuvud-->
-					<h1>A small template</h1>
-			</header>
+			<?php
+			require "header.php";
+			?>
 			<!--Egen fil -->
-			<nav> <!--Menyn-->
-				<ul>
-					<li><a href="index.php">Start</a></li>
-					<li><a href="sida2.php">Produkter</a></li>
-					<li><a href="sida3.php">Kundvagn</a></li>
-					<li><a href="#">Betalning</a></li>
-				</ul>
-			</nav>
+			<?php
+			require "nav.php";
+			?>
 			<main> <!--Huvudinnehåll-->
 				<section id="content">
 					<article>
@@ -44,9 +39,9 @@
 			</main>
 		</div>
 		<!--Egen fil -->
-		<footer>
-			 Footer containing information regarding the website
-		</footer>
+		<?php
+			require "footer.php";
+		?>
   
   </body>
 </html>
