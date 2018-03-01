@@ -33,7 +33,7 @@
 							<figcaption>Daniel</figcaption>
 						</figure>
 		
-						<p>Some text about DanielTEST.</p>
+						<p>TEST TEST TEST Some text about Daniel.</p>
 	      
 					</article>
 					<article>
@@ -42,7 +42,7 @@
 							<figcaption>Andreas</figcaption>
 						</figure>
 		
-						<p>Some text about AndreasTEST</p>
+						<p>Some text about Andreas</p>
 	      
 					</article>
 					<article>
